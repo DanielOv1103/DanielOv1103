@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://yt3.googleusercontent.com/5ztiblAtHwoSloaN_EVzOT3DqODnrqDjaB7lBfTmVqoZ7PkROzdIBfF-ZgJYV-00C0Ifm-tYx5Y=s160-c-k-c0x00ffffff-no-rj"  />
-
 ###
 
 <div align="left">
